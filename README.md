@@ -10,7 +10,7 @@
 
 # Description
 
-## Data Recognition
+## Data Detection
 ```
 dataset_det/
 folder
