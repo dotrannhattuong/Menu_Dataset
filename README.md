@@ -20,9 +20,9 @@ folder
   ├── Data Menu_Đề 1_AI Hackathon/ - Label Data Menu
   
 txt files
-  ├── test_label - Testing Set VinAI
+  ├── test_label.txt - Testing Set VinAI
   ├── train_label.txt - Training Set VinAI
-  ├── unseen_label - Unseen Set VinAI        
+  ├── unseen_label.txt - Unseen Set VinAI        
   ├── label_menu.txt - Label Data Menu for char
   ├── datadet.txt - Merge VinAI and Menu Dataset
   ├── train_datadet.txt - Training Set datadet (80%)
@@ -40,9 +40,10 @@ folder
   ├── train_images_menu/ - Label Data Menu for sentences
   
 txt files
-  ├── crop_test_label - Testing Set VinAI
+  ├── vinai.txt - Total Dataset VinAI
+  ├── crop_test_label.txt - Testing Set VinAI
   ├── crop_label.txt - Training Set VinAI
-  ├── crop_unseen_label - Unseen Set VinAI        
+  ├── crop_unseen_label.txt - Unseen Set VinAI        
   ├── crop_label_char.txt - Label Data Menu for char
   ├── crop_label_menu.txt - Label Data Menu for sentences
   ├── datacrop.txt - Merge VinAI and Menu Dataset
